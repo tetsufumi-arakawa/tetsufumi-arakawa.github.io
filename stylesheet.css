@@ -131,7 +131,7 @@ iframe {
 /* CONTACT
 ------------------------------- */
 #contact {
-    background-image: url(https://github.com/tetsufumi-arakawa/tetsufumi-arakawa.github.io/blob/master/images/Tetsufumi-contact-bg.jpeg?raw=true);
+    background-image: url(https://raw.githubusercontent.com/tetsufumi-arakawa/tetsufumi-arakawa.github.io/master/images/Tetsufumi-contact-bg.jpeg);
     min-height: 100vh;
 }
 
