@@ -86,7 +86,7 @@ iframe {
 /* HOME
 ------------------------------- */
 #home {
-    background-image: url(../images/main-bg.jpeg);
+    background-image: url(https://raw.githubusercontent.com/tetsufumi-arakawa/tetsufumi-arakawa.github.io/master/images/main-bg.jpeg);
     min-height: 100vh;
 }
 #home .page-title {
@@ -104,7 +104,7 @@ iframe {
 /* NEWS
 ------------------------------- */
 #about {
-    background-image: url(../images/about-bg.jpeg);
+    background-image: url(https://raw.githubusercontent.com/tetsufumi-arakawa/tetsufumi-arakawa.github.io/master/images/about-bg.jpeg);
     min-height: 100vh;
 }
 #about .page-title {
